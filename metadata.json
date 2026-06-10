@@ -1,0 +1,6 @@
+{
+  "name": "Electro Assistant",
+  "description": "Professional tool for electricians: text-to-Excel generator, customer report share, and expert AI Electrical Chief Engineer assistant adhering to safety codes.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
